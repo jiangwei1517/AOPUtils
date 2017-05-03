@@ -4,8 +4,6 @@ import android.app.Activity;
 import android.content.pm.PackageManager;
 import android.widget.Toast;
 
-import com.jiangwei.aop_utils.BaseApplication;
-
 /**
  * author:  jiangwei18 on 17/5/2 23:55
  * email:  jiangwei18@baidu.com

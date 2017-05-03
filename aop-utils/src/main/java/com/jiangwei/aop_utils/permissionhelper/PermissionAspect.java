@@ -5,11 +5,7 @@ import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.annotation.Pointcut;
 
-import com.jiangwei.aop_utils.BaseApplication;
-
-import android.content.pm.PackageManager;
 import android.text.TextUtils;
-import android.widget.Toast;
 
 /**
  * author: jiangwei18 on 17/5/2 23:23 email: jiangwei18@baidu.com Hi: jwill金牛
